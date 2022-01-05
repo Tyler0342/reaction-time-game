@@ -1,0 +1,24 @@
+.point {
+  padding: 10px;
+  background: rgb(253, 207, 0);
+  border-radius: 4px;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
+  display: inline-block;
+  margin: 12px 6px;
+}
+
+.item {
+  border-radius: 4px;
+  box-shadow: 0 0 4px rgba(0, 0, 0, 0.5);
+  padding: 10px;
+  background: rgb(47, 194, 11);
+  display: inline-block;
+  margin: 4px 2px;
+}
+
+.overflowDiv {
+  height: 160px;
+  padding: 10px;
+  overflow: auto;
+  box-shadow: inset 0 0 4px;
+}

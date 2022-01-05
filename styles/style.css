@@ -1,0 +1,21 @@
+body, button {
+  font-family: 'ABeeZee', sans-serif;
+}
+
+a {
+  color: #008cff;
+}
+
+a:hover {
+  color: #005eac;
+  text-decoration: none;
+}
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+}
+
+div {
+  text-align: center;
+}
